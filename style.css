@@ -71,7 +71,7 @@ footer img {
   z-index: -2;
   margin-left:-12em;
   margin-top:-2em;
-  filter: brightness(35%);
+  filter: brightness(40%);
 }
 button {
   background-color: var(--background-color);
