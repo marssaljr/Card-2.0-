@@ -13,7 +13,9 @@ body {
   padding: 0.5em 0;
   align-content: center;
   justify-content: center;
-  min-width: 400px;
+  Height: 100vh;
+  Width: 100vw;
+  min-width: 380px;
 
 }
 .container {
