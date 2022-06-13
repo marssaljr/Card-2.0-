@@ -1,0 +1,5 @@
+<svg width="40" height="40" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="6" y="6" width="228" height="228" rx="34" stroke="#DAA520" stroke-width="12"/>
+<path d="M42 96L122.5 161L197 96V186.5C197 192.023 192.523 196.5 187 196.5H52C46.4772 196.5 42 192.023 42 186.5V96Z" fill="#DAA520"/>
+<path d="M42 60C42 54.4772 46.4772 50 52 50H187C192.523 50 197 54.4772 197 60V76.3552L124 141L42 76.3552V60Z" fill="#DAA520"/>
+</svg>
